@@ -4,6 +4,7 @@
 	<body>
 		<ul>
 			<li>Home</li>
+			<li>Products</li>
 			<li>about</li>
 			<li>Services</li>
 		</ul>
